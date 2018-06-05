@@ -2,6 +2,7 @@
 ABM de Bicicletas eléctrica
 
 1º Ejecutar el archivo DATABASE.sql dentro de la carpeta config/schema
+
 2º Crear el usuario:
      'username' => 'persiscal',
      'password' => 't3sTL4b0r4l'

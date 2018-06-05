@@ -8,7 +8,8 @@ ABM de Bicicletas eléctrica
      
   Y darle todos los privilegios de administrador de bases de datos.
 
-3º Montar proyecto en un servidor, o en la carpeta del proyecto, ejecutar desde la consola: bin/cake server
-    este comando creará un servidor local para correr el proyecto, el mismo se encontrará en http://localhost:8765/
+3º Montar proyecto en un servidor, o en la carpeta del proyecto, ejecutar desde la consola: $ bin/cake server
+
+   este comando creará un servidor local para correr el proyecto, el mismo se encontrará en http://localhost:8765/
     
 
